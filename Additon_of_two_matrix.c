@@ -25,7 +25,7 @@ int main()
 	}
 	if(ca==cb && ra==rb)
 	{
-		printf("Addition of two matrix\n");
+		printf("Addition of two matrixx\n");
 	   for(i=0;i<ra;i++)
      	{
 		for(j=0;j<cb;j++)
