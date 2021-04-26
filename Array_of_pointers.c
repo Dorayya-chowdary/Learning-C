@@ -27,6 +27,3 @@ int main()
 		printf(" %s\n",s[i].branch);
 	}
 }
-/*
-
-*/
