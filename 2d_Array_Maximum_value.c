@@ -19,7 +19,6 @@ int main()
 			if(max<arr[i][j])
 			{
 				max=arr[i][j];
-				
 			}
 			//printf("%d ",arr[i][j]);
 		}
