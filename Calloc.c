@@ -8,7 +8,7 @@ int main()
 	for(i=0;i<size;i++)
 	{
 		printf("%d ",arr[i]);
-	}
+	}	
 	printf("\n");
 	for(i=0;i<size;i++)
 	{
