@@ -26,4 +26,4 @@ int main()
 		printf(" %s ",s[i].name);
 		printf(" %s\n",s[i].branch);
 	}
-}
+}	
