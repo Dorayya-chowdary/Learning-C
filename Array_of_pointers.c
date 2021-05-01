@@ -23,7 +23,8 @@ int main()
 	for(i=0;i<n;i++)
 	{
 		printf("%d ",s[i].id);
-		printf(" %s ",s[i].name);
 		printf(" %s\n",s[i].branch);
+		printf(" %s ",s[i].name);
+		
 	}
 }	
