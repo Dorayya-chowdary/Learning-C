@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-	int arr[100][100],max,i,j,row_size,col_size;
+        int arr[100][100],max,i,j,row_size,col_size;
 	scanf("%d%d",&row_size,&col_size);
 	for(i=0;i<row_size;i++)
 	{
@@ -26,5 +26,5 @@ int main()
         printf("%d",max);	
 	}
 	//printf("%d",max);
-	return 0;
+     return 0;
 }
