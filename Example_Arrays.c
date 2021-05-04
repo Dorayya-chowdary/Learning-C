@@ -5,11 +5,11 @@ int main()
 	scanf("%d",&subs);
 	for(i=0;i<subs;i++)
 	{
-		scanf("%d",&marks[i]);
+		scanf("%d",&mark[i]);
 	}
 	for(i=0;i<subs;i++)
 	{
-        total+=marks[i];		
+        total+=mark[i];		
         
 	}
 	printf("total marks=%d",total);
