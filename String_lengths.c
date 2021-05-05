@@ -1,6 +1,6 @@
 //string lengths
-#include<stdio.h>
 #include<string.h>
+#include<stdio.h>
 int main()
 {
 	char str[100][100];
