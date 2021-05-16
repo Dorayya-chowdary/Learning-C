@@ -1,6 +1,5 @@
-
-#include<stdio.h>
 #include<string.h>
+#include<stdio.h>
 int main()
 {
         int arr[100][100],max,i,j,row_size,col_size;
