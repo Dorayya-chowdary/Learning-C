@@ -1,4 +1,4 @@
-//Addition of two matix
+
 #include<stdio.h>
 int main()
 {
