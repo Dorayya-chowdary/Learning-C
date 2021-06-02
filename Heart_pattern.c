@@ -15,7 +15,7 @@ int main()
  
         // FOR PRINTING PEAK-1 : PART 2
         for (b = 1; b <= a; b++)
-            printf("*");
+            printf("#");
   
         // FOR SPACE B/W PEAK-1 AND PEAK-2 : PART 3
         for (b = 1; b <= size-a; b++)
@@ -23,7 +23,7 @@ int main()
          
         // FOR PRINTING PEAK-2 : PART 4
         for (b = 1; b <= a-1; b++)
-            printf("*");
+            printf("#");
  
         printf("\n");
     }
@@ -38,7 +38,7 @@ int main()
  
         // FOR PRINTING THE BASE OF TRIANGLE : PART 6
         for (b = 1; b <= ((a * 2) - 1); b++)
-            printf("*");
+            printf("#");
  
         printf("\n"); 
     }
